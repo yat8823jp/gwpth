@@ -1,12 +1,12 @@
 {
-  "name": "spycejs",
-  "version": "2.0.1",
-  "description": "This is use Sass and EJS to create Website.",
+  "name": "gwpth",
+  "version": "1.0.0",
+  "description": "This is use Sass and browserSync to create WordPress theme.",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Chiaki Obara and YAT",
+  "author": "YAT",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.13.0",
